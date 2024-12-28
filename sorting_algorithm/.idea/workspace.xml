@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11012ede-1ab0-4a04-a064-2f409541ef73" name="Changes" comment="09:19">
+      <change beforePath="$PROJECT_DIR$/.idea/QuickSort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/QuickSort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_sort/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort/prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_sort/quick_sort_most_right_pivot.py" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort/quick_sort_most_right_pivot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quick_sort/quick_sort_random_pivot.py" beforeDir="false" afterPath="$PROJECT_DIR$/quick_sort/quick_sort_random_pivot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GWB21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GWB21/sorting_algorithm.git&quot;,
+    &quot;accountId&quot;: &quot;c0337bba-0630-4ce4-bf72-096b00d10f72&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ndkn09lkAGVnE7OwlfekMoD4m2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.counting_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quick_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quick_sort_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.quick_sort_median_pivot.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.quick_sort_most_right_pivot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quick_sort_random_pivot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.radix_sort.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/baegeun-u/PycharmProjects/sorting_algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11012ede-1ab0-4a04-a064-2f409541ef73" name="Changes" comment="" />
+      <created>1729310503944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729310503944</updated>
+      <workItem from="1729310505322" duration="15592000" />
+      <workItem from="1729337767927" duration="10909000" />
+      <workItem from="1734077916493" duration="8200000" />
+      <workItem from="1734094548211" duration="764000" />
+      <workItem from="1734361589149" duration="1907000" />
+    </task>
+    <task id="LOCAL-00001" summary="09:19">
+      <option name="closed" value="true" />
+      <created>1729556376994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729556376994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="09:19" />
+    <option name="LAST_COMMIT_MESSAGE" value="09:19" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/quick_sort_most_right_pivot.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QuickSort$prac.coverage" NAME="prac Coverage Results" MODIFIED="1729327050902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sorting_Algorithms$prac.coverage" NAME="prac Coverage Results" MODIFIED="1729354900831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_time_sorts(counting, radix)" />
+    <SUITE FILE_PATH="coverage/Sorting_Algorithms$counting_sort.coverage" NAME="counting_sort Coverage Results" MODIFIED="1729358743099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_time_sorts(counting, radix)" />
+    <SUITE FILE_PATH="coverage/sorting_algorithm$quick_sort_random_pivot.coverage" NAME="quick_sort_random_pivot Coverage Results" MODIFIED="1734362592730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quick_sort" />
+    <SUITE FILE_PATH="coverage/QuickSort$quick_sort_median_pivot.coverage" NAME="quick_sort_median_pivot Coverage Results" MODIFIED="1729324113548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Sorting_Algorithms$radix_sort.coverage" NAME="radix_sort Coverage Results" MODIFIED="1729360003823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Linear_time_sorts(counting, radix)" />
+    <SUITE FILE_PATH="coverage/QuickSort$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1729316024825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QuickSort$quick_sort_most_right_pivot.coverage" NAME="quick_sort_most_right_pivot Coverage Results" MODIFIED="1729324107572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QuickSort$quick_sort_2.coverage" NAME="quick_sort_2 Coverage Results" MODIFIED="1729322913954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sorting_algorithm$quick_sort_most_right_pivot.coverage" NAME="quick_sort_most_right_pivot Coverage Results" MODIFIED="1734084955018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quick_sort" />
+  </component>
+</project>
